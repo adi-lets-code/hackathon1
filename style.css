@@ -1,0 +1,135 @@
+body
+{
+    background-color: #1F003F;
+}
+
+
+
+
+
+.COM
+{
+    color: #F949C8;
+    font-family: "Alumni Sans", sans-serif;
+    font-optical-sizing: large;
+    font-weight: 700;
+    font-style: large;
+}
+
+.meta
+{
+    color: #F949C8;
+}
+.hack
+{
+    color: #BCF645;
+    font-family: "Alumni Sans", sans-serif;
+    font-optical-sizing: large;
+    font-weight: 700;
+    font-style: large;
+}
+.hackathon
+{
+    color: #BCF645;
+}
+.Week
+{
+    color: aliceblue;
+}
+.parabtn
+{
+    color: rgb(217, 212, 212);
+    width: 350px;
+}
+p{
+    margin-bottom: 0;
+}
+.btn-hack
+{
+    background-color: #F949C8;
+    margin-top: 30px;
+    padding: 20PX;
+    border-radius: 10PX;
+    color: aliceblue;
+}
+.main-pg
+{
+    margin-left: 100PX;
+    display: flex;
+    margin-top: 100px;
+    
+}
+.img1{
+    height: 300px;
+    width: 300px;
+    margin-left: 400px;
+}
+.content-main
+{
+    width: 350px;
+    font-size: large;
+    margin-left: 100px;
+}
+.imgg1
+{
+    width: 500px;
+    height: 500px;
+}
+.btn-nav
+{
+    background-color: #F949C8;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+.pg2
+{
+    display: flex;
+    margin-top: 200PX;
+}
+
+.LINE1
+{
+    color: #BCF645;
+    margin-top: 30PX;
+    text-align: center;
+}
+
+.LINE2{
+    color: #F949C8;
+    margin-top: 30PX;
+    text-align: center;
+}
+.LINE-3
+{
+    margin-top: 30PX;
+    text-align: center;
+}
+.right-box
+{
+    margin-left: 130PX;
+}
+
+.middle-box
+{
+    margin-left: 150PX;
+}
+
+.left-img
+{
+    width: 400px;
+    
+}
+
+.right-img
+{
+    width: 400px;
+}
+.btn-pg3
+{
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(85, 83, 83);
+}
